@@ -1,0 +1,1 @@
+Entity: the foundation of a simple entity system
