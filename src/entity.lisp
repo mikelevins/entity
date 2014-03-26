@@ -151,7 +151,7 @@
         (setf (entity-slots entity)
             (cons (cons key val)
                   (entity-slots entity)))
-        entity)))
+        entity))))
 
 ;;; (setf $e1 (make-instance 'alist-entity :slots '(:name "Barney")))
 ;;; (contains-key? $e1 :name)
